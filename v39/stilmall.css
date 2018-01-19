@@ -1,0 +1,12 @@
+.flex-container {
+      display: flex;
+      width: 450px;
+      height: 450px;
+      background-color: green;
+      flex-direction: column;
+      justify-content: space-around;
+
+}
+
+
+.flex-items
